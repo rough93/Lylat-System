@@ -4,8 +4,7 @@ This is a mod for Kerbal Space Program version 1.1.3 that adds Lylat system plan
 
 Have fun with this pack and if you need assistance, please post in the forums.
 
-
-
+forum post: http://forum.kerbalspaceprogram.com/index.php?/topic/143907-113-starfox-lylat-system-v011/
 
 
 
